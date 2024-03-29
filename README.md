@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://cdna.artstation.com/p/assets/images/images/050/423/884/medium/mohammx-safa-final.jpg?1654803157)
 
-<h1 align="center"> Safa Asgar! 👋</h1>
+<h1 align="center"> Maimunul Karim Jisan! 👋</h1>
 <h3 align="center"> This artwork is created by me 😊</h1>
 
 ## 🙋‍♂️ About Me
-- 👋 Hi, I’m Safa Asgar
+- 👋 Hi, I’m Maimunul Karim Jisan
 - 🖥️ I am a Computer Science Undergraduate.
-- 👀 I’m interested in Web Development, Machine Learning, and Art.
-- 🌱 I’m currently learning Prisma ORM, Three JS for Web, and Transformers in Machine Learning.
-- 📫 You can reach me at safaasgar58@gmail.com
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently improving knowledge of Data Science
+- 📫 You can reach me at maimunuljisan0@gmail.com
 
 
 ## 🌐 Connect with me: 
