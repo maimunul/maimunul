@@ -99,25 +99,29 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-%2304B5C5.svg?style=for-the-badge&logo=Deep-Learning&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%2304B5C5.svg?style=for-the-badge&logo=Machine-Learning&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-%2304B5C5.svg?style=for-the-badge&logo=Data-Visualization&logoColor=white)
+![Sci-Fi](https://img.shields.io/badge/Sci--Fi-%2304B5C5.svg?style=for-the-badge&logo=Sci-Fi&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-%2304B5C5.svg?style=for-the-badge&logo=Statistics&logoColor=white)
+![Probability](https://img.shields.io/badge/Probability-%2304B5C5.svg?style=for-the-badge&logo=Probability&logoColor=white)
+![Differential Calculus](https://img.shields.io/badge/Differential_Calculus-%2304B5C5.svg?style=for-the-badge&logo=Differential-Calculus&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-%2304B5C5.svg?style=for-the-badge&logo=EDA&logoColor=white)
+
+
 
 
 ### 🎨 Other Skills:
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Word](https://img.shields.io/badge/Word-%2304B5C5.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-%2304B5C5.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ### ☁️ Hosting/SaaS
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
@@ -126,6 +130,8 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%2304B5C5.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%2304B5C5.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 
 
 ---
