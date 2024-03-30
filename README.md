@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Maimunul Karim Jisan
-- 🖥️ I am a Computer Science Undergraduate.
+- 🖥️ I am a Computer Science Student
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently improving knowledge of Data Science
 - 📫 You can reach me at maimunulkjisan0@gmail.com
