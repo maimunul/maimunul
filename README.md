@@ -52,6 +52,7 @@
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+          
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maimunul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -116,7 +117,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%2304B5C5.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2304B5C5.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
-
+![Maimunul GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ---
 
