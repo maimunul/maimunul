@@ -1,17 +1,3 @@
-<!--
-**maimunul/maimunul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![alt text](https://cdna.artstation.com/p/assets/images/images/050/423/884/medium/mohammx-safa-final.jpg?1654803157)
 
 <h1 align="center"> Maimunul Karim Jisan! 👋</h1>
@@ -65,7 +51,7 @@ Here are some ideas to get you started:
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maimunul Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Maimunul%20git%20status&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maimunul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
