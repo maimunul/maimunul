@@ -38,7 +38,6 @@
     <table align="center">
         <tr>
             <td>
-                 <a href="https://git.io/streak-stats">
                  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Maimunul%20git%20status&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
             </td>
         </tr>
