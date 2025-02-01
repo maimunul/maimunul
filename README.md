@@ -4,16 +4,16 @@
 </p>
 
 <h1 align="center">✨ Maimunul Karim Jisan ✨</h1>
-<h3 align="center">A Passionate Computer Science Student | Data Science Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast</h3>
 
 ---
 
 ## 💡 **About Me**
-- 🔭 Currently working on **Data Science & Machine Learning Projects**
-- 🌱 Learning **Deep Learning, AI & Advanced Data Analysis**
-- 🚀 Passionate about **Mathematics, AI, and Problem Solving**
-- 🎨 Fun Fact: **I love Digital Art & Sci-Fi Movies!**
-- 📫 Reach me at: **[maimunulkjisan0@gmail.com](mailto:maimunulkjisan0@gmail.com)**
+- 🔬 **Data Science Enthusiast** with a keen interest in **AI & Machine Learning**
+- 📊 Passionate about **Data Analysis, Statistics, and Predictive Modeling**
+- 🌱 Currently learning **Deep Learning, NLP & Time-Series Analysis**
+- 🎨 I love **Sci-Fi Movies, Digital Art, and Mathematics!**
+- 📫 **Reach me at:** [maimunulkjisan0@gmail.com](mailto:maimunulkjisan0@gmail.com)
 
 ---
 
@@ -58,28 +58,62 @@
   <img src="https://skillicons.dev/icons?i=python,c,html,js" />
 </p>
 
-### 🔥 **Databases & Cloud**
+### 🧠 **Machine Learning & AI**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit-learn" />
 </p>
 
-### 📦 **Libraries & Frameworks**
+### 📦 **Data Science & Analytics**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras,pandas,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
 </p>
 
 ### 🛠 **Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,pycharm,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode" />
+</p>
+
+### ☁️ **Cloud & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
 </p>
 
 ---
 
-## 🎨 **Other Skills**  
-- 🖥️ **Data Science & Machine Learning**  
-- 📊 **Data Visualization & Statistics**  
-- 📸 **Adobe Photoshop & Illustrator**  
-- 📝 **Overleaf, Microsoft Word, Netlify**
+## 📊 **Skills & Expertise**  
+
+### 📌 **Data Science & Machine Learning**  
+- ✅ **Exploratory Data Analysis (EDA)**
+- ✅ **Supervised & Unsupervised Learning**
+- ✅ **Regression & Classification Models**
+- ✅ **Deep Learning with TensorFlow/Keras**
+- ✅ **Natural Language Processing (NLP)**
+- ✅ **Time Series Forecasting**
+
+### 📌 **Mathematics & Statistics**  
+- 📊 **Linear Algebra, Probability & Statistics**
+- 🏆 **Hypothesis Testing & A/B Testing**
+- 📈 **Differential & Integral Calculus**
+- 📉 **Optimization Techniques**
+
+### 📌 **Data Visualization & Reporting**  
+- 📊 **Matplotlib, Seaborn, Plotly**
+- 📈 **Power BI & Tableau**
+- 📑 **Dashboards & Business Analytics**
+
+---
+
+## 📌 **Projects & Research**  
+
+🔬 **Data Science Projects**  
+- 📌 **[Predicting Stock Prices Using LSTMs](#)**  
+- 📌 **[Customer Churn Prediction with ML](#)**  
+- 📌 **[Sentiment Analysis on Twitter Data](#)**  
+
+📊 **Data Analytics & Visualization**  
+- 📌 **[Sales Forecasting & Business Insights](#)**  
+- 📌 **[EDA on COVID-19 Data](#)**  
+- 📌 **[Credit Card Fraud Detection](#)**  
 
 ---
 
@@ -90,4 +124,4 @@
 
 ---
 
-⭐ **Feel free to reach out and connect!** 🚀  
+⭐ **Let’s Learn & Build Together!** 🚀  
