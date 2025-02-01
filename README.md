@@ -77,7 +77,8 @@
 
 ### 🛠 **Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,pycharm,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/DagsHub-%23232F3E.svg?style=for-the-badge&logo=dagshub&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
