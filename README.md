@@ -60,17 +60,22 @@
 
 ### 🧠 **Machine Learning & AI**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit-learn,mlops" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit-learn" />
+  <img src="https://img.shields.io/badge/MLOps-%23FF6F00.svg?style=for-the-badge&logo=mlops&logoColor=white" />
 </p>
 
 ### 📦 **Data Science & Analytics**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-#4C8CBF.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-#3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### 🛠 **Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode,dagshub,streamlit" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode" />
+  <img src="https://img.shields.io/badge/DagsHub-#232F3E.svg?style=for-the-badge&logo=dagshub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-#FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud & Databases**
