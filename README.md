@@ -64,18 +64,20 @@
   <img src="https://img.shields.io/badge/MLOps-%23FF6F00.svg?style=for-the-badge&logo=mlops&logoColor=white" />
 </p>
 
-### 📦 **Data Science & Analytics**
+### 📊 **Data Science & Analytics**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-#4C8CBF.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-#3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%234C8CBF.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### 🛠 **Development Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode" />
-  <img src="https://img.shields.io/badge/DagsHub-#232F3E.svg?style=for-the-badge&logo=dagshub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-#FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/DagsHub-%23232F3E.svg?style=for-the-badge&logo=dagshub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud & Databases**
@@ -105,20 +107,6 @@
 - 📊 **Matplotlib, Seaborn, Plotly**
 - 📈 **Power BI & Tableau**
 - 📑 **Dashboards & Business Analytics**
-
----
-
-## 📌 **Projects & Research**  
-
-🔬 **Data Science Projects**  
-- 📌 **[Predicting Stock Prices Using LSTMs](#)**  
-- 📌 **[Customer Churn Prediction with ML](#)**  
-- 📌 **[Sentiment Analysis on Twitter Data](#)**  
-
-📊 **Data Analytics & Visualization**  
-- 📌 **[Sales Forecasting & Business Insights](#)**  
-- 📌 **[EDA on COVID-19 Data](#)**  
-- 📌 **[Credit Card Fraud Detection](#)**  
 
 ---
 
