@@ -55,22 +55,22 @@
 
 ### 💻 **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,java" />
 </p>
 
 ### 🧠 **Machine Learning & AI**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit-learn,mlops" />
 </p>
 
 ### 📦 **Data Science & Analytics**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly" />
 </p>
 
 ### 🛠 **Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jupyter,pycharm,vscode,dagshub,streamlit" />
 </p>
 
 ### ☁️ **Cloud & Databases**
