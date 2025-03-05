@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ Maimunul Karim Jisan ✨</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast</h3>
+<h3 align="center">Data Scientist | AI Researcher | Machine Learning Engineer</h3>
 
 ---
 
