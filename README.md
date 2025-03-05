@@ -23,7 +23,7 @@
   <a href="https://www.kaggle.com/maimunulkjisan" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/maimunul-karim-j-6371a7140/" target="blank">
+  <a href="https://www.linkedin.com/in/maimunul-karim-jisan-6371a7140/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mdmk.jishan/" target="blank">
