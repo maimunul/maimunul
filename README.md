@@ -7,13 +7,7 @@
 <h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast</h3>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F7DF1E&width=500&height=50&lines=Hi+I'm+Prarthana!;A+Data+Science+Enthusiast;Love+Learning+AI+and+ML" alt="Typing SVG">
-</p>
 
-
-![MasterHead](https://camo.githubusercontent.com/37a4da575381e6eb7f937878b48ae504dbcd2ea0e8762cce1ff4936c9f8301dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966)
-<h1 align="center">Hi 👋, I'm Prarthana Singh</h1>
 ## 💡 **About Me**
 - 🔬 **Data Science Enthusiast** with a keen interest in **AI & Machine Learning**
 - 📊 Passionate about **Data Analysis, Statistics, and Predictive Modeling**
